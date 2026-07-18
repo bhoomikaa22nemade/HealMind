@@ -86,7 +86,7 @@ const testimonials = [
           <div className="testimonial-card" key={index}>
             <FaQuoteLeft className="quote-icon" />
 
-            <p className="testimonial-text">{item.review}</p>
+     <p className="testimonial-text">{item.text}</p>
 
             <div className="testimonial-stars">
               <FaStar />
