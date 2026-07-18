@@ -1,0 +1,24 @@
+[
+  {
+    "id": "5f8139a4-e0ab-4787-9515-70bf722d5c68",
+    "receiptNo": "MW-2026-00001",
+    "userId": 1,
+    "counsellorId": 1,
+    "counsellorName": "Dr. Priya Sharma",
+    "counsellorSpecialization": "Career",
+    "counsellorImage": null,
+    "name": "Bhoomika Nemade",
+    "email": "nemadebhoomika@gmail.com",
+    "phone": "9284818046",
+    "date": "2026-07-21",
+    "time": "11:00 AM",
+    "mode": "In-Person",
+    "notes": "",
+    "fee": 800,
+    "platformFee": 40,
+    "tax": 151.2,
+    "total": 991.2,
+    "status": "Confirmed",
+    "createdAt": "2026-07-18T07:56:02.579Z"
+  }
+]

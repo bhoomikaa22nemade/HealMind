@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Priya Sharma",
+    "gender": "female",
+    "specialization": "Career",
+    "experience": 8,
+    "rating": 4.8,
+    "fee": 800,
+    "availability": "Available",
+    "bio": "Helps professionals navigate career transitions, workplace stress, and long-term growth planning."
+  },
+  {
+    "id": 2,
+    "name": "Dr. Arjun Mehta",
+    "gender": "male",
+    "specialization": "Anxiety",
+    "experience": 6,
+    "rating": 4.6,
+    "fee": 700,
+    "availability": "Available",
+    "bio": "Specializes in cognitive behavioral techniques for generalized anxiety and panic disorders."
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sneha Kapoor",
+    "gender": "female",
+    "specialization": "Relationship",
+    "experience": 10,
+    "rating": 4.9,
+    "fee": 950,
+    "availability": "Busy",
+    "bio": "Couples and family therapist focused on communication, trust rebuilding, and conflict resolution."
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rohan Verma",
+    "gender": "male",
+    "specialization": "Stress",
+    "experience": 5,
+    "rating": 4.4,
+    "fee": 600,
+    "availability": "Available",
+    "bio": "Works with burnout, chronic stress, and mindfulness-based stress reduction (MBSR)."
+  },
+  {
+    "id": 5,
+    "name": "Dr. Kavita Nair",
+    "gender": "female",
+    "specialization": "Anxiety",
+    "experience": 12,
+    "rating": 4.9,
+    "fee": 1000,
+    "availability": "Available",
+    "bio": "Senior clinical psychologist specializing in social anxiety and phobia treatment."
+  },
+  {
+    "id": 6,
+    "name": "Dr. Aditya Rao",
+    "gender": "male",
+    "specialization": "Career",
+    "experience": 4,
+    "rating": 4.2,
+    "fee": 550,
+    "availability": "Available",
+    "bio": "Career coach for students and early-career professionals dealing with decision fatigue."
+  },
+  {
+    "id": 7,
+    "name": "Dr. Meera Iyer",
+    "gender": "female",
+    "specialization": "Relationship",
+    "experience": 7,
+    "rating": 4.7,
+    "fee": 750,
+    "availability": "Busy",
+    "bio": "Focuses on premarital counselling, attachment styles, and healthy boundary-setting."
+  },
+  {
+    "id": 8,
+    "name": "Dr. Karan Malhotra",
+    "gender": "male",
+    "specialization": "Stress",
+    "experience": 9,
+    "rating": 4.5,
+    "fee": 850,
+    "availability": "Available",
+    "bio": "Helps corporate employees manage workload stress and prevent burnout."
+  },
+  {
+    "id": 9,
+    "name": "Dr. Ananya Das",
+    "gender": "female",
+    "specialization": "Anxiety",
+    "experience": 3,
+    "rating": 4.1,
+    "fee": 500,
+    "availability": "Available",
+    "bio": "Early-career therapist bringing an empathetic, youth-friendly approach to anxiety management."
+  },
+  {
+    "id": 10,
+    "name": "Dr. Vikram Singh",
+    "gender": "male",
+    "specialization": "Career",
+    "experience": 15,
+    "rating": 5.0,
+    "fee": 1200,
+    "availability": "Busy",
+    "bio": "Executive coach with 15+ years guiding leadership transitions and career pivots."
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ritu Chawla",
+    "gender": "female",
+    "specialization": "Relationship",
+    "experience": 6,
+    "rating": 4.3,
+    "fee": 650,
+    "availability": "Available",
+    "bio": "Supports individuals and couples through separation, co-parenting, and blended-family dynamics."
+  },
+  {
+    "id": 12,
+    "name": "Dr. Siddharth Joshi",
+    "gender": "male",
+    "specialization": "Stress",
+    "experience": 11,
+    "rating": 4.8,
+    "fee": 900,
+    "availability": "Available",
+    "bio": "Integrates breathwork and cognitive techniques to manage chronic stress and insomnia."
+  }
+]
